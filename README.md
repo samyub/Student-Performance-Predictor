@@ -1,7 +1,5 @@
 # Student Performance Predictor
 
-This is a beginner machine learning project.
-
 The goal of this project is to predict whether a student may pass or need improvement based on some basic student information.
 
 ## Input
@@ -50,5 +48,3 @@ Through this project I learned about:
 - Add more student information
 - Try different machine learning models
 - Improve the prediction accuracy
-
-This is part of my AI and machine learning learning journey.
